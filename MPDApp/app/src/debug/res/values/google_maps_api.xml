@@ -1,0 +1,4 @@
+<!--Nikolaj Alexander Gilstrøm - S1630425-->
+<resources>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">INSERT KEY</string>
+</resources>

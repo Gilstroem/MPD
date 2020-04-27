@@ -1,0 +1,11 @@
+<!--Nikolaj Alexander Gilstrøm - S1630425-->
+<resources>
+    <string name="app_name">MPD App</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="id">S1630425</string>
+
+    <string name="filter">Filter by road</string>
+    <string name="current_button">Current roadwork</string>
+    <string name="planned_button">Planned roadwork</string>
+    <string name="incidents_button">Incidents</string>
+</resources>
